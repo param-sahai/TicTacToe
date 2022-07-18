@@ -1,6 +1,11 @@
-# Nano React App Default Javascript Template
+# TicTacToe Game using Nano React App Template
 
-The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
+What happens when fun of TicTacToe meets the power of React?
+You get an unsual game of TicTacToe, where with each step, you can trace what you did wrong.
+
+You can play the game here : http://tictoetac.surge.sh/
+
+You can find the default template project (Nano-React-App) here : (https://github.com/nano-react-app/nano-react-app).
 
 - `npm start` — This will spawn a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `dist` directory.
